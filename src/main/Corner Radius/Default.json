@@ -1,0 +1,38 @@
+{
+  "Corner Radius-Null": {
+    "value": "{Number.0}",
+    "type": "dimension"
+  },
+  "Corner Radius-xsmall": {
+    "value": "{Number.4}",
+    "type": "dimension"
+  },
+  "Corner Radius-small": {
+    "value": "{Number.8}",
+    "type": "dimension"
+  },
+  "Corner Radius-medium": {
+    "value": "{Number.16}",
+    "type": "dimension"
+  },
+  "Corner Radius-large": {
+    "value": "{Number.32}",
+    "type": "dimension"
+  },
+  "Corner Radius-xlarge": {
+    "value": "{Number.40}",
+    "type": "dimension"
+  },
+  "Corner Radius-xxlarge": {
+    "value": "{Number.64}",
+    "type": "dimension"
+  },
+  "Corner Radius-circle": {
+    "value": "{Number.104}",
+    "type": "dimension"
+  },
+  "Corner Radius-xxsmall": {
+    "value": "{Number.2}",
+    "type": "dimension"
+  }
+}
