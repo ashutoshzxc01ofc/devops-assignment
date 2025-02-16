@@ -1,0 +1,17 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "Colors Tokens/Dark Mode",
+    "Colors Tokens/Light Mode",
+    "Colors Tokens/Boehringer",
+    "Primitives/Colors",
+    "Drupal/Mode 1",
+    "Colors Tokens/Light Mode/Colors Tokens/Light Mode",
+    "Custom Collection/Mode 1",
+    "Typography/DS",
+    "Typography/Boehringer Ingelheim",
+    "Corner Radius/Default",
+    "Spacing/Cozy",
+    "Spacing/Compact"
+  ]
+}

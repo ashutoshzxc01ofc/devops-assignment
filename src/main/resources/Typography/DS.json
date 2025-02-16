@@ -1,0 +1,128 @@
+{
+  "font": {
+    "family zs": {
+      "title": {
+        "value": "Mulish",
+        "type": "text"
+      },
+      "body": {
+        "value": "Mulish",
+        "type": "text"
+      }
+    },
+    "weight": {
+      "Extra Light": {
+        "value": "Extra Light",
+        "type": "text"
+      },
+      "Light": {
+        "value": "Light",
+        "type": "text"
+      },
+      "Regular": {
+        "value": "Regular",
+        "type": "text"
+      },
+      "Medium": {
+        "value": "Medium",
+        "type": "text"
+      },
+      "Semibold": {
+        "value": "Semibold",
+        "type": "text"
+      },
+      "Bold": {
+        "value": "Bold",
+        "type": "text"
+      },
+      "Extra Bold": {
+        "value": "Extra Bold",
+        "type": "text"
+      },
+      "Black": {
+        "value": "  Black",
+        "type": "text"
+      },
+      "Extra Black": {
+        "value": "Extra Black",
+        "type": "text"
+      }
+    },
+    "size": {
+      "xxs": {
+        "value": "0.75rem",
+        "type": "dimension"
+      },
+      "sm": {
+        "value": "1.25rem",
+        "type": "dimension"
+      },
+      "md": {
+        "value": "1.5rem",
+        "type": "dimension"
+      },
+      "lg": {
+        "value": "2rem",
+        "type": "dimension"
+      },
+      "xl": {
+        "value": "2.5rem",
+        "type": "dimension"
+      },
+      "2xl": {
+        "value": "3rem",
+        "type": "dimension"
+      },
+      "3xl": {
+        "value": "3.5rem",
+        "type": "dimension"
+      },
+      "4xl": {
+        "value": "4rem",
+        "type": "dimension"
+      },
+      "xs": {
+        "value": "1.125rem",
+        "type": "dimension"
+      }
+    },
+    "line-height": {
+      "xxs": {
+        "value": "1.25rem",
+        "type": "dimension"
+      },
+      "xs": {
+        "value": "1.5rem",
+        "type": "dimension"
+      },
+      "s": {
+        "value": "1.75rem",
+        "type": "dimension"
+      },
+      "m": {
+        "value": "2.25rem",
+        "type": "dimension"
+      },
+      "l": {
+        "value": "3rem",
+        "type": "dimension"
+      },
+      "xl": {
+        "value": "3.5rem",
+        "type": "dimension"
+      },
+      "2xl": {
+        "value": "4rem",
+        "type": "dimension"
+      },
+      "3xl": {
+        "value": "5rem",
+        "type": "dimension"
+      },
+      "4xl": {
+        "value": "6rem",
+        "type": "dimension"
+      }
+    }
+  }
+}

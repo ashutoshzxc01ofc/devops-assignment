@@ -1,0 +1,26 @@
+{
+  "color-primary": {
+    "value": "{colors.Light yellow.#300}",
+    "type": "color"
+  },
+  "color-secondary": {
+    "value": "{colors.Light red.#200}",
+    "type": "color"
+  },
+  "color-text": {
+    "value": "{colors.Purple.#500}",
+    "type": "color"
+  },
+  "bg-header": {
+    "value": "{colors.Light green.#400}",
+    "type": "color"
+  },
+  "bg-content": {
+    "value": "{colors.White.#700}",
+    "type": "color"
+  },
+  "bg-body": {
+    "value": "{colors.Black.#1100}",
+    "type": "color"
+  }
+}

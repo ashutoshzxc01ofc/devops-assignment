@@ -1,0 +1,54 @@
+{
+  "spacing-null": {
+    "value": "{Number.0}",
+    "type": "number"
+  },
+  "spacing-xs": {
+    "value": "{Number.8}",
+    "type": "number"
+  },
+  "spacing-s": {
+    "value": "{Number.12}",
+    "type": "number"
+  },
+  "spacing-md": {
+    "value": "{Number.16}",
+    "type": "number"
+  },
+  "spacing-lg": {
+    "value": "{Number.20}",
+    "type": "number"
+  },
+  "spacing-xl": {
+    "value": "{Number.24}",
+    "type": "number"
+  },
+  "spacing-xxl": {
+    "value": "{Number.32}",
+    "type": "number"
+  },
+  "spacing-3xl": {
+    "value": "{Number.36}",
+    "type": "number"
+  },
+  "spacing-4xl": {
+    "value": "{Number.40}",
+    "type": "number"
+  },
+  "spacing-5xl": {
+    "value": "{Number.48}",
+    "type": "number"
+  },
+  "spacing-3xs": {
+    "value": "{Number.4}",
+    "type": "number"
+  },
+  "spacing-2xs": {
+    "value": "{Number.6}",
+    "type": "number"
+  },
+  "spacing-6xl": {
+    "value": "{Number.64}",
+    "type": "number"
+  }
+}
